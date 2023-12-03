@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postpp/static/css/main.87163bdd.css",
+    "main.js": "/postpp/static/js/main.8d860e89.js",
+    "index.html": "/postpp/index.html",
+    "main.87163bdd.css.map": "/postpp/static/css/main.87163bdd.css.map",
+    "main.8d860e89.js.map": "/postpp/static/js/main.8d860e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87163bdd.css",
+    "static/js/main.8d860e89.js"
+  ]
+}
